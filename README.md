@@ -1,0 +1,1 @@
+The repo contains my analysis of Brazilian E-Commerce Public Dataset by Olist the largest department store in Brazilian marketplaces. 
