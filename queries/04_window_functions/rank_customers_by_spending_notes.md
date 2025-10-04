@@ -17,3 +17,6 @@ SUM
 WINDOW FUNCTIONS
 RANK()
 GROUP BY
+
+### Query Output
+![Output](outputs/rank_customers_by_spending_output.png)
