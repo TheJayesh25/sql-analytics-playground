@@ -14,3 +14,6 @@ current row and the six preceding rows to create a moving average.
 WINDOW FUNCTIONS
 ROWS BETWEEN
 AVG OVER()
+
+### Query Output
+![Output](outputs/moving_avg_revenue_output.png)
