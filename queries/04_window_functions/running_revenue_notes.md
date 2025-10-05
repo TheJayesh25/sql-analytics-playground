@@ -14,3 +14,6 @@ values ordered by date, producing a running total of revenue.
 WINDOW FUNCTIONS
 SUM OVER()
 ORDER BY
+
+### Query Output
+![Output](outputs/running_revenue_output.png)
