@@ -15,3 +15,6 @@ GROUP BY
 SUM
 WINDOW FUNCTIONS
 RANK()
+
+### Query Output
+![Output](outputs/seller_revenue_ranking_output.png)
