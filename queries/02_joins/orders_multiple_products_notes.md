@@ -12,3 +12,6 @@ Orders with item counts greater than one are filtered using HAVING.
 ## SQL Concepts
 GROUP BY
 HAVING
+
+### Query Output
+![Output](outputs/orders_multiple_products_output.png)
