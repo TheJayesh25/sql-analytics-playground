@@ -13,3 +13,6 @@ Orders are joined with customer location data and grouped by state.
 ## SQL Concepts
 JOIN
 GROUP BY
+
+### Query Output
+![Output](outputs/orders_per_state_output.png)
