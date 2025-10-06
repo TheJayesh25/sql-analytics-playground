@@ -13,3 +13,6 @@ Each appearance of a product_id indicates a unit sold.
 GROUP BY
 COUNT
 ORDER BY
+
+### Query Output
+![Output](outputs/product_sales_count_output.png)
