@@ -11,3 +11,6 @@ AVG calculates the average rating given by customers.
 
 ## SQL Concepts
 AVG
+
+### Query Output
+![Output](outputs/average_review_score_output.png)
