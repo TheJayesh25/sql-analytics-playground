@@ -12,3 +12,6 @@ AVG computes the mean payment value across all payments.
 ## SQL Concepts
 AVG
 Aggregation
+
+### Query Output
+![Output](outputs/average_order_value_output.png)
