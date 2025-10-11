@@ -13,3 +13,6 @@ has purchased from the platform.
 ## SQL Concepts
 GROUP BY
 COUNT
+
+### Query Output
+![Output](outputs/customer_retention_output.png)
