@@ -15,3 +15,6 @@ to create acquisition cohorts.
 CTE
 DATE_TRUNC
 GROUP BY
+
+### Query Output
+![Output](outputs/cohort_analysis_output.png)
