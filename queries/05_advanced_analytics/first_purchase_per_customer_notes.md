@@ -13,3 +13,6 @@ representing the first time they placed an order.
 ## SQL Concepts
 GROUP BY
 MIN
+
+### Query Output
+![Output](outputs/first_purchase_per_customer_output.png)
