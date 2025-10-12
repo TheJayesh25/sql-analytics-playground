@@ -14,3 +14,6 @@ with more than one order.
 GROUP BY
 HAVING
 COUNT
+
+### Query Output
+![Output](outputs/repeat_customers_output.png)
