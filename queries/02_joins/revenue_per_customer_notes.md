@@ -15,3 +15,6 @@ JOIN
 SUM
 GROUP BY
 ORDER BY
+
+### Query Output
+![Output](outputs/revenue_per_customer_output.png)
