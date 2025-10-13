@@ -17,3 +17,6 @@ are then averaged for each product category.
 JOIN
 AVG
 GROUP BY
+
+### Query Output
+![Output](outputs/avg_review_by_category_output.png)
