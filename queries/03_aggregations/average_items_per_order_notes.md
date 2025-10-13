@@ -15,3 +15,6 @@ Subqueries
 GROUP BY
 COUNT
 AVG
+
+### Query Output
+![Output](outputs/average_items_per_order_output.png)
