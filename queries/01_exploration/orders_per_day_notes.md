@@ -14,3 +14,6 @@ how many orders were placed each day.
 DATE extraction
 GROUP BY
 ORDER BY
+
+### Query Output
+![Output](outputs/orders_per_day_output.png)
