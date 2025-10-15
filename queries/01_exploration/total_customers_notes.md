@@ -13,3 +13,6 @@ customers appear multiple times in the dataset.
 ## SQL Concepts
 COUNT DISTINCT
 Aggregation
+
+### Query Output
+![Output](outputs/total_customers_output.png)
