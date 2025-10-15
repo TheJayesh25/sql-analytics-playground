@@ -13,3 +13,6 @@ this gives the total number of orders placed on the platform.
 ## SQL Concepts
 COUNT()
 Aggregate functions
+
+### Query Output
+![Output](outputs/total_orders_output.png)
