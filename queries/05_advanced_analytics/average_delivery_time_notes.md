@@ -14,3 +14,6 @@ is calculated and averaged to estimate delivery duration.
 Date arithmetic
 AVG
 WHERE filtering
+
+### Query Output
+![Output](outputs/average_delivery_time_output.png)
