@@ -18,3 +18,6 @@ GROUP BY
 WINDOW FUNCTIONS
 RANK()
 PARTITION BY
+
+### Query Output
+![Output](outputs/top_product_per_category_output.png)
