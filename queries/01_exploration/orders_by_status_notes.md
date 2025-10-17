@@ -13,3 +13,6 @@ shipped, canceled, and other categories.
 ## SQL Concepts
 GROUP BY
 COUNT
+
+### Query Output
+![Output](outputs/orders_by_status_output.png)
