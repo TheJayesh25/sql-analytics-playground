@@ -15,3 +15,6 @@ GROUP BY
 MAX
 ORDER BY
 LIMIT
+
+### Query Output
+![Output](outputs/most_expensive_products_output.png)
