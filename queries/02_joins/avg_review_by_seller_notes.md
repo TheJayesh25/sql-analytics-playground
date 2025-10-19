@@ -15,3 +15,6 @@ Reviews are joined with sellers through orders and averaged.
 JOIN
 AVG
 GROUP BY
+
+### Query Output
+![Output](outputs/avg_review_by_seller_output.png)
