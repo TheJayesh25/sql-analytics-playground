@@ -13,3 +13,6 @@ Orders are counted per seller and sorted to find the top sellers.
 GROUP BY
 ORDER BY
 LIMIT
+
+### Query Output
+![Output](outputs/most_active_sellers_output.png)
