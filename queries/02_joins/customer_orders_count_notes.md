@@ -15,3 +15,6 @@ an order.
 JOIN
 GROUP BY
 COUNT
+
+### Query Output
+![Output](outputs/customer_orders_count_output.png)
