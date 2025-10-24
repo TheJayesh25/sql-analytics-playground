@@ -11,3 +11,6 @@ DISTINCT ensures each product is counted only once.
 
 ## SQL Concepts
 COUNT DISTINCT
+
+### Query Output
+![Output](outputs/unique_products_sold_output.png)
