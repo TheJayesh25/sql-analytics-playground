@@ -13,3 +13,6 @@ from all recorded transactions.
 ## SQL Concepts
 SUM()
 Aggregation
+
+### Query Output
+![Output](outputs/total_revenue_output.png)
