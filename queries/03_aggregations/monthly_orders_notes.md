@@ -15,3 +15,6 @@ DATE_TRUNC
 GROUP BY
 COUNT
 ORDER BY
+
+### Query Output
+![Output](outputs/monthly_orders_output.png)
