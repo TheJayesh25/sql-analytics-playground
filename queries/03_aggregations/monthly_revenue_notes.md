@@ -15,3 +15,6 @@ DATE_TRUNC
 GROUP BY
 SUM
 ORDER BY
+
+### Query Output
+![Output](outputs/monthly_revenue_output.png)
