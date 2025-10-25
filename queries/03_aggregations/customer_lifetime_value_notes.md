@@ -16,3 +16,6 @@ JOIN
 SUM
 GROUP BY
 ORDER BY
+
+### Query Output
+![Output](outputs/customer_lifetime_value_output.png)
