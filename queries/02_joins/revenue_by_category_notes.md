@@ -14,3 +14,6 @@ Products are joined to their categories and revenue is aggregated.
 JOIN
 GROUP BY
 SUM
+
+### Query Output
+![Output](outputs/revenue_by_category_output.png)
