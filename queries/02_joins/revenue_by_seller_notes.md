@@ -13,3 +13,6 @@ Sales revenue is aggregated by seller.
 GROUP BY
 SUM
 ORDER BY
+
+### Query Output
+![Output](outputs/revenue_by_seller_output.png)
